@@ -21,8 +21,8 @@ track projects, and organize client records efficiently.
 My classmates and I wrote a quantitative research that tackles about teachers and their utilization of technology.
 </p>
 <div align="center">
-<img scr="blob:https://www.facebook.com/c96347d3-0f16-424f-be2b-1b8da4f672c9" alt="Certificate">
-
+<img scr="https://imgur.com/a/Ca6BIed.png" "height=50%" "width=50%" alt="Certificate">
+<a/>
 </div>
 
 <div class="card">

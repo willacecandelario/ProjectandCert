@@ -20,8 +20,8 @@ track projects, and organize client records efficiently.
 <p>
 My classmates and I wrote a quantitative research that tackles about teachers and their utilization of technology.
 </p>
-
-<img scr="https://imgur.com/tS4x1jG" alt="Certificate">
+<div align="center">
+<img scr="blob:https://www.facebook.com/c96347d3-0f16-424f-be2b-1b8da4f672c9" alt="Certificate">
 
 </div>
 
